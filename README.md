@@ -2,7 +2,7 @@
 Hi 👋 My name is Michiel Adriaansens
 ====================================
 
-Blockchain developer/ Smart contract engineer
+web developer/ blockchain developer
 ---------------------------------------------
 
 Having a background as game artist/animator, i started messing around more in game engines. Letting my curiousity lead me out of the confines of just game development i've been taking courses on fullstack web development the last few years and now also emerced in Web3 development. Studying and working my way up to eventually start applying and hopefully landing a job. Either as a javascript or blockchain dev.

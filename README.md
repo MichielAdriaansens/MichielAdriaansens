@@ -5,7 +5,7 @@ Hi 👋 My name is Michiel Adriaansens
 web developer/ blockchain developer
 ---------------------------------------------
 
-i started messing around in game engines. Letting my curiousity lead me out of the confines of just game development i've been taking courses on fullstack web development the last few years and now also emerced in Web3 development.
+Fullstack Web dev & Web3
 
 * 🌍  I'm based in Deventer, Netherlands
 * 🖥️  See my portfolio at [Portfolio](http://michieladriaansens.github.io/CV/)

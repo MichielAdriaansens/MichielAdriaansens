@@ -2,11 +2,6 @@
 Hi 👋 My name is Michiel Adriaansens
 ====================================
 
-I catch faulty data and i console log the truth.
-E.g someone tried to convince me he was abducted by aliens so i calmly replied..
-"You are broke, why would anyone want to abduct you?".
-Unfortunately the person was unreasonable so it didn't land well but at least i won the crowd.
-
 web developer/ blockchain developer
 ---------------------------------------------
 
